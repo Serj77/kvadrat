@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flb {
+    display: flex;
+    background-color: dodgerblue;
+    height: 100vh;
+}
+
+.kv {
+    width: 10vw;
+    height: 10vw;
+    background-color: firebrick;
+    position: absolute;
+}
+
+.kv1 {
+    left: 0;
+    top: 0;
+}
+
+.kv2 {
+    right: 0;
+    top: 0;
+}
+
+.kv3 {
+    right: 0;
+    bottom: 0;
+}
+
+.kv4 {
+    left: 0;
+    bottom: 0;
+}
+
+.kv5 {
+    position: relative;
+    margin: auto;
+    width: 90%;
+    height: 85%;
+    background-color: greenyellow;
+
+}
